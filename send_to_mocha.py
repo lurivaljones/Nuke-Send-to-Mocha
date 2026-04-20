@@ -1,3 +1,6 @@
+# I created this file based on the old "Send to Mocha" script
+# Lurival Jones 2026 
+
 import nuke
 import subprocess
 import os
