@@ -2,8 +2,9 @@
 
 ![Gif](screenshots/send_to_mocha.gif)
 
-A lightweight Python script for Foundry Nuke (including Nuke Indie) that allows digital compositors to send a Read node directly to Boris FX Mocha Pro Standalone.
+A Python script for Foundry Nuke (including Nuke Indie) that allows digital compositors to send a Read node directly to Boris FX Mocha Pro Standalone.
 This tool is especially useful for Nuke Indie users who might face limitations with the integrated OFX plugin and prefer a seamless way to open footage in Mocha Pro with project settings (range, FPS, aspect ratio) pre-configured.
+* Inspired by the old version of the "Send to Mocha" script by Imagineer Systems (Boris FX now).
 
 Features:
 
