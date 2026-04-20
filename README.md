@@ -6,6 +6,7 @@ A lightweight Python script for Foundry Nuke (including Nuke Indie) that allows 
 This tool is especially useful for Nuke Indie users who might face limitations with the integrated OFX plugin and prefer a seamless way to open footage in Mocha Pro with project settings (range, FPS, aspect ratio) pre-configured.
 
 Features
+
 One-Click Export: Launch Mocha Pro with the selected footage.
 Auto-Sync: Automatically sets Frame Range, FPS, and Pixel Aspect Ratio.
 Indie Friendly: Works within Nuke Indie's Python restrictions.
