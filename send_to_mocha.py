@@ -29,7 +29,7 @@ def send_to_mocha():
         'proxy').value() else nuke.root().knob('format').value().pixelAspect()
 
     # 3. Adjust your Mocha version according to the specific ".exe" file.
-    mocha_path = "D:/BorisFX/Mocha Pro 2026/bin/mochapro.exe"
+    mocha_path = "C:/Program Files/BorisFX/Mocha Pro 2026/bin/mochapro.exe"
 
     if not os.path.exists(mocha_path):
         nuke.message("Mocha Pro not found in:\n" + mocha_path)
