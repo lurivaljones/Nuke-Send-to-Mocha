@@ -1,2 +1,12 @@
-# Nuke-Send-to-Mocha
-A Python tool for Nuke Indie to launch Mocha Pro with auto-synced project settings.
+# Nuke Send to Mocha 
+
+![Demonstração](screenshots/send_to_mocha.gif)
+
+A lightweight Python script for Foundry Nuke (including Nuke Indie) that allows digital compositors to send a Read node directly to Boris FX Mocha Pro Standalone.
+This tool is especially useful for Nuke Indie users who might face limitations with the integrated OFX plugin and prefer a seamless way to open footage in Mocha Pro with project settings (range, FPS, aspect ratio) pre-configured.
+
+Features
+One-Click Export: Launch Mocha Pro with the selected footage.
+Auto-Sync: Automatically sets Frame Range, FPS, and Pixel Aspect Ratio.
+Indie Friendly: Works within Nuke Indie's Python restrictions.
+Cross-Platform: Designed to work on Windows, macOS, and Linux.
